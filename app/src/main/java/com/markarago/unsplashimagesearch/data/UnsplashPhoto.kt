@@ -1,4 +1,4 @@
-package com.markarago.unsplashimagesearch
+package com.markarago.unsplashimagesearch.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
